@@ -14,6 +14,7 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl2cmVpemFobDc0bzdwN2ZzYWxnMmU0emx3bXp3eW54bThrd3p3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWxsb8PIjdoeqQXc2t/giphy.gif)
 
 ## App Brainstorming (Step 4)
 
